@@ -53,7 +53,13 @@ const Nav = () => {
             <NavLink href="#contact">Contact</NavLink>
           </NavItem>
           <Resume>
-            <ResumeLink>Resume</ResumeLink>
+            <ResumeLink
+              href="https://online.fliphtml5.com/poskt/sgmf/#p=1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Resume
+            </ResumeLink>
           </Resume>
         </NavGroup>
       </NavWrapper>
