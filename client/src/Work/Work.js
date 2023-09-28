@@ -47,7 +47,7 @@ const Work = () => {
       name: "Luma Action",
       description:
         "Luma Action, a dynamic force in policy planning, advocacy, and organizational development, empowers partners and clients to address complex issues and uplift communities. As a web developer, I had the privilege of contributing to their online presence, helping them illuminate the path towards positive change. This project highlights my ability to translate a powerful mission into an engaging digital platform.",
-      link: "https://glassmorphic-weather.herokuapp.com/home",
+      link: "https://lumaaction.org",
       github: undefined,
       tech: [
         "React",
